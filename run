@@ -1,0 +1,1 @@
+xvfb-run --auto-servernum python3 main.py
